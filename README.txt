@@ -1,2 +1,2 @@
-# Juego-del-numero-secreto
-se trata de crear un juego que cree un numero aleatorio entre el 0 y el 100, y que el usuario adivine el numero
+Arreglo de 10 palabras
+"Bugs" conocidos: El programa debería de almacenar las palabras en un arreglo, pero no lo hace, el las guarda temporalmente y luego cuando se printea la cantidad de letras, repite el proceso X10
